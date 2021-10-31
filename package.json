@@ -1,0 +1,8 @@
+{
+  "name": "vue-stringify-transfer",
+  "version": "0.0.1",
+  "description": "An extremely simple template engine.",
+  "main": "index.js",
+  "author": "joenix",
+  "license": "MIT"
+}
